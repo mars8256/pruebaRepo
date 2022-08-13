@@ -5,3 +5,6 @@ git init
 
 	para inicializar git en el proyecto
 
+git add . 
+
+	comando para agregar mis archivos al área de stagin
