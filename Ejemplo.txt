@@ -8,3 +8,10 @@ git init
 git add . 
 
 	comando para agregar mis archivos al área de stagin
+
+git remote add origin https://github.com/mars8256/pruebaRepo.git
+
+	este comando me sirve para subir mis archivos 
+	al repositorio remoto
+
+
