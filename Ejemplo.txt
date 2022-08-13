@@ -1,0 +1,7 @@
+Hola mundo!
+Esto es una prueba de documento de texto
+
+git init
+
+	para inicializar git en el proyecto
+
